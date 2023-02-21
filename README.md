@@ -1,0 +1,1 @@
+Testnet Details - https://www.zetachain.com/docs/reference/testnet
